@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tianyi Zhou"
+  name             : "Tianyi Zhou (周添一)"
   avatar           : "images/android-chrome-512x512_tianyi.png"
   bio              : " This is my bio"
   location         : "Stockholm, Sweden"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"tianyichow-tcs"
+  github           : "tianyichow-tcs"
   google_plus      :
   keybase          :
   instagram        :
